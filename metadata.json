@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Rutin ve Hatirlatici Takvimi (kotlin)",
+  "description": "Günlük, haftalık ve aylık rutinlerinizi takip edebileceğiniz, 1 yıllık dinamik takvim sınırlamalı, yüksek performanslı yerel hatırlatıcı uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

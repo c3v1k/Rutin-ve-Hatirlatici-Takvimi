@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rutin ve Hatırlatıcı Takvimi</string>
+    <string name="title_activity_main">Rutin ve Hatırlatıcı Takvimi</string>
+    <string name="package_name">com.rutinvehatirlatici.app</string>
+    <string name="custom_url_scheme">com.rutinvehatirlatici.app</string>
+</resources>
